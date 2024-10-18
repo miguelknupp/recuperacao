@@ -1,0 +1,10 @@
+Criar o Route . feito!
+Fazer as paginas.  feito!
+Conectar as paginas com o Route. feito!
+Fazer o db login.
+Criar a base pro login na pagina de mesmo nome.
+Conectar o db com o login.
+Criar o db produtos.
+O mesmo do login só que como os produtos.
+Conectar o db produtos com a pagina produtos.
+Fazer firula pq sim!

@@ -1,0 +1,18 @@
+{
+
+    "produtos":[
+        {
+            "id": "1",
+            "nome": "Inicio",
+            "tipo": "teste",
+            "preco": "12,3"
+        },
+        {
+            "id": "3",
+            "nome": "banana",
+            "tipo": "comida",
+            "preco": "12,3"
+        }
+    ]
+
+}

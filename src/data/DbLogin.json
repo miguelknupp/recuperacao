@@ -1,0 +1,18 @@
+{
+
+    "users":[
+        {
+            "id": "1",
+            "nome": "Inicio",
+            "email": "alo@oba.com",
+            "senha": "123"
+        },
+        {
+            "id": "9",
+            "nome": "AAAAAAAA",
+            "email": "docemel@sodoce.com.br",
+            "senha": "brigadeiro123"
+        }
+    ]
+
+}
